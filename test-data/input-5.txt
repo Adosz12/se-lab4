@@ -1,0 +1,6 @@
+#Hibás inputok
+GT45000,10,0,10,0
+GT4500
+GT4500,10,0,10,0 #TORPEDO meghívásához inicializálni kell egy hajót
+TORPEDO
+TORPEDO,VALAMI
